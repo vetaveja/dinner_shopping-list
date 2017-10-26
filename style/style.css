@@ -8,6 +8,7 @@ header {
 	background-color: #4a4f56;
 	padding-top: 15px;
 	padding-bottom: 15px;
+	text-align: center;
 }
 h1 {
 	margin: 0;
@@ -51,6 +52,7 @@ small {
 	background-color: #625e77;
 }
 footer {
+	text-align: center;
 	color: #eb7e7f;
 	width: 500px;
 	margin: 50px auto;
@@ -60,4 +62,6 @@ footer {
 }
 body {
 	background-color: #3b3f45;
+	padding: 0;
+	margin: 0;
 }
